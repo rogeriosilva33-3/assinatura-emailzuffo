@@ -2,13 +2,9 @@
 
 Imagem da assinatura de e-mail de Rogério da Silva Zuffo (Seazone), hospedada aqui para ser inserida no Gmail por URL.
 
-## Arquivos
+## Arquivo
 
-| Arquivo | Cargo na imagem |
-|---|---|
-| `assinatura_rogeriook.png` | Farmer de Parcerias Franquias |
-| `assinatura_rogerio.png` | Farmer de Parcerias Franquias (cópia idêntica) |
-| `assinatura-rogerio.png` | Farmer - Franquias |
+`assinatura_rogeriook.png`: cargo "Farmer de Parcerias Franquias".
 
 ## Link da imagem
 
